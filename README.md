@@ -12,5 +12,5 @@ Jump : Spacebar
 ## Difference Death by stage or life
 ![image](https://user-images.githubusercontent.com/95682287/210777035-b68f8bf9-cf0c-4e20-87b4-4b76638b4618.png) |![image](https://user-images.githubusercontent.com/95682287/210776737-91147321-7d6d-4321-824a-7fcf7ead8db6.png) |![image](https://user-images.githubusercontent.com/95682287/210776878-db73ca5f-be26-4c0e-b4d7-3501c723e4db.png)
 --- | --- | --- |
-## Final
+## Ending
 ![image](https://user-images.githubusercontent.com/95682287/210780458-745abc76-5ad0-4ff9-baba-5b21f8a763cb.png)
